@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/c7717692-4085-4561-a431-692fef9dcbd3.svg)](https://wakatime.com/@c7717692-4085-4561-a431-692fef9dcbd3)
 <!--
 **sarankumar-ns/sarankumar-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
