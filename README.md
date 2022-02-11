@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi, This is Saran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 [![wakatime](https://wakatime.com/badge/user/c7717692-4085-4561-a431-692fef9dcbd3.svg)](https://wakatime.com/@c7717692-4085-4561-a431-692fef9dcbd3)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarankumar-ns&theme=holi-theme&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **sarankumar-ns/sarankumar-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
