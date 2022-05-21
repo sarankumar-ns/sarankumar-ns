@@ -2,7 +2,12 @@
 
 [![wakatime](https://wakatime.com/badge/user/c7717692-4085-4561-a431-692fef9dcbd3.svg)](https://wakatime.com/@c7717692-4085-4561-a431-692fef9dcbd3)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarankumar-ns&theme=holi-theme&date_format=j%20M%5B%20Y%5D" alt="sarankumar-ns" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarankumar-ns&theme=holi-theme&date_format=j%20M%5B%20Y%5D" alt="sarankumar-ns" />
+</p>
+<p align="center">
+<a href="https://app.daily.dev/sarankumar_ns"><img src="https://api.daily.dev/devcards/8ecf2c58fab04412aef0d4abc7a2c81b.png?r=hau" width="400" alt="Sarankumar N's Dev Card"/></a>
+  </p>
 
 <!--
 **sarankumar-ns/sarankumar-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
